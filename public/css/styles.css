@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
